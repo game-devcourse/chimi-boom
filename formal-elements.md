@@ -15,7 +15,8 @@
 המשחק זמין במחשב ובנייד
 
 
-שימו כאן ציור-מסך המתאר את המשחק כפי שאתם רואים אותו בדמיון שלכם.
+![image](https://github.com/game-devcourse/chimi-boom/assets/86705118/845f4d42-7f8e-4ec0-a3dc-516f91cadf56)
+
 
 ---
 
