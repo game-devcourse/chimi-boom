@@ -75,6 +75,11 @@
 
 השחקן ידע מה המשאבים שהוא יוכל להשיג ע"י חיפושם וכאשר הוא משיג משאב הוא יופיע לו בתיק החומרים.
 
+![image](https://github.com/game-devcourse/chimi-boom/assets/86705118/1a7f9a49-184b-4029-8d60-0d51a6307356)
+![image](https://github.com/game-devcourse/chimi-boom/assets/86705118/cf512c14-cb61-4358-99f7-be527aa69906)
+
+
+
 
 ### 6. עימותים
 
