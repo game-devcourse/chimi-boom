@@ -7,4 +7,4 @@
 הצלחתם ליצור את החומרים הנכונים לחומר שלכם? מעולה ניצחם!!
 טעיתם באחד מהחומרים? קא-בוווםםם... התפוצצתם.
 
-[להסבר חרכיבים](https://github.com/game-devcourse/chimi-boom/blob/main/formal-elements.md)
+[להסבר הרכיבים](https://github.com/game-devcourse/chimi-boom/blob/main/formal-elements.md)
