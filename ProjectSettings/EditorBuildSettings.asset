@@ -5,7 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BeachScreen.unity
+    guid: 78fee9dceb65c1542927361d164448ce
+  - enabled: 1
+    path: Assets/Scenes/CityScreen.unity
+    guid: c033dd80fa69f5d45b63268ce69b956e
+  - enabled: 1
+    path: Assets/Scenes/DesertScreen.unity
+    guid: dcebdb0c97709c440a0ed9bcb664b09c
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: d88c6689ec360c349af1c0cd4a528b37
+  - enabled: 1
+    path: Assets/Scenes/MoantainsScreen.unity
+    guid: 138654ff56ba56c4a94e12374b0d5b7c
   m_configObjects: {}
