@@ -8,6 +8,15 @@ TagManager:
   - Donut
   - Capsule
   - Inventory
+  - ellipse
+  - Rectangle
+  - Square
+  - Triangle
+  - beach
+  - desert
+  - city
+  - map
+  - moantains
   layers:
   - Default
   - TransparentFX

@@ -4,6 +4,7 @@ using UnityEngine;
 
 /**
  * This component instantiates a given prefab at random time intervals and random bias from its object position.
+ * This script was taken from the lecture.
  */
 public class TimedSpawnerRandom: MonoBehaviour {
     [SerializeField] Mover prefabToSpawn;

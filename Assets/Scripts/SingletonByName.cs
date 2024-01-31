@@ -4,7 +4,7 @@ using UnityEngine;
 /**
  * Implements a singleton pattern in Unity:
  * makes sure that there is exactly one GameObject with the same name of the current one.
- * 
+ * This script was taken from the lecture.
  * @author Erel Segal-Halevi
  * @since 2020-02
  */

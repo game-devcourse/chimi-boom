@@ -3,7 +3,8 @@ using System.Threading.Tasks;
 using UnityEngine;
 
 /**
- * This component instantiates a given prefab at random time intervals and random bias from its object position.
+ * This component instantiates a given prefab at random time intervals and random image.
+ * Meaning it gets an array of movers(a prefab with mover component) and select a randomly.
  */
 public class TimedSpawnerRandomPictures: MonoBehaviour {
 
@@ -35,12 +36,4 @@ public class TimedSpawnerRandomPictures: MonoBehaviour {
             newObject.GetComponent<Mover>().SetVelocity(velocityOfSpawnedObject);
         }
     }
-
-    // public enum PrefabType
-    // {
-    //     PrefabToSpawn1,
-    //     PrefabToSpawn2,
-    //     PrefabToSpawn3,
-    //     PrefabToSpawn4
-    // }
 }

@@ -3,6 +3,7 @@
 /**
  * This component follows the position of a given object, but not its rotation.
  * Especially useful for cameras.
+ * This script was taken from the lecture.
  */ 
 public class PositionFollower: MonoBehaviour{
     [SerializeField] private GameObject objectToFollow = null;
