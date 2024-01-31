@@ -11,3 +11,5 @@
 טעיתם באחד מהחומרים? קא-בוווםםם... התפוצצתם.
 
 [להסבר הרכיבים](https://github.com/game-devcourse/chimi-boom/blob/main/formal-elements.md)
+
+[למשחק](https://edenxhadar.itch.io/chimi-boom)
